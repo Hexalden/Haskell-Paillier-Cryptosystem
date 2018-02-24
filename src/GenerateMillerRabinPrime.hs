@@ -3,7 +3,7 @@ Module      :  generateMillerRabinPrime
 Description :  This program contain functions permiting to generate a number which
                 validate a Miller-Rabin primality test.
 Copyright   :  (c) Franck Metier
-License     :  GNU GPLv3
+License     :  MIT
 
 Maintainer  :  quadrique.sec@gmail.com
 Stability   :  experimental
