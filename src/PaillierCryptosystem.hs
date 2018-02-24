@@ -3,7 +3,7 @@ Module      :  Paillier Cryptosystem
 Description :  This program contain functions permiting to generate Paillier cryptosystem keys,
                 encrypt a message, and decrypt an encrypted message.
 Copyright   :  (c) Franck Metier
-License     :  GNU GPLv3
+License     :  MIT
 
 Maintainer  :  quadrique.sec@gmail.com
 Stability   :  experimental
